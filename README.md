@@ -2,26 +2,26 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http://ayusharma.github.io/birthday/
+URL: https://thanhbkzzz2022.github.io/
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+Các kỹ thuật được sử dụng: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-# Setup
+# Cài đặt
 
-## If you have python installed:
+## Nếu Python đã được cài đặt:
 ```
-cd Birthday
+Truy cập vào đường dẫn thư mục tải về
 ```
 
 && 
 
 ```
-python -m SimpleHTTPServer --port  8081
+python -m http.server 8081
 ```
 
-visit http://localhost:8081 in your browser.
+Truy cập địa chỉ http://localhost:8081 trên trình duyệt.
 
-## If you have nodejs installed
+## Nếu NodeJS đã được cài đặt
 ```
 npm install
 ```
@@ -30,5 +30,5 @@ npm install
 ```
 npm run server-node
 ```
-visit http://localhost:8081 in your browser.
+Truy cập http://localhost:8081 trên trình duyệt.
 
